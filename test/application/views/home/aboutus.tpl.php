@@ -1,0 +1,169 @@
+<div class="body">
+         <div class="about-banner"></div>
+<!--banner ends-->
+ <!--................................. START GET STARTED AREA ............................................................-->
+<div class="aboutbox">
+<div class="aboutbox_left">
+<h3><!--The Influx IQ Development group was founded by Beto Paredes, software architect extraordinaire and Tony DeLisio, World famous designer and art Director.-->
+ "Our staff consists of the best you will find in the Industry.  Our professional staff all have college degrees with several years in the field.  Our administrative have worked on some of the most complicated projects with expert fineness."</h3></div>
+<div class="aboutbox_right"><div id="downbutton"><a href="<?php echo base_url()."home/contact.html"; ?>" class="buttondown"></a></div></div>
+</div>
+<div class="clr"></div>
+ <!--................................. END GET STARTED AREA ............................................................-->
+ 
+<!-- .................................... START PROFILE AREA ............................................................................-->
+<div class="profile">
+
+<div class="aboutsection" style=" min-height:250px;">
+<div class="aboutpic"><img src="<?php echo base_url(); ?>images/beto1.jpg" alt="" width="113" height="143" /></div>
+<div class="contarea_about">
+<div class="cont_abouttop"><span class="searchbluebold" style="line-height:30px;">Beto Paredes</span> <br />
+<span style="color:#333333;"><b>Chief Executive Officer</b></span><br /><br />
+Beto brings extensive industry knowledge and seasoned experience to the team. He has been actively working in the Direct Online Marketing industry and related online industries for over 10 years.<br /><br />
+Starting with software development and moving into the front end creative side Beto has developed and launched several companies that work in the space. Included in this list is ApogeeInvent whom has worked with 6 of the Inc 500 and developed technology for over 20 well known affiliate networks and top performing advertisers. Affiliate.com, Media Trust and Hydra being three of the networks worth mentioning.Beto has also appeared several times as a guest speaker at the IT Summit and Affiliate Convention. For more on Beto please see his BIO.
+</div>
+<div class="smediaiconarea">
+<div class="aboutpic5">CONNECT WITH ME ON :</div>
+<div class="aboutpic6"><a href="http://www.facebook.com/betocparedes" target="_blank"><img src="<?php echo base_url(); ?>images/contactf.jpg" width="26" height="27" alt="" /></a> <a href="http://www.twitter.com/betoparedes" target="_blank"><img src="<?php echo base_url(); ?>images/contactt.jpg" width="26" height="27" alt="" /></a> <a href="http://www.linkedin.com/in/betoparedes " target="_blank"><img src="<?php echo base_url(); ?>images/contactin.jpg" width="26" height="27" alt="" /></a></div>
+</div></div></div>
+<div class="clr"></div>
+
+<div class="aboutsection">
+<div class="aboutpic"><img src="<?php echo base_url(); ?>images/deba.jpg" alt="" /></div>
+<div class="contarea_about">
+<div class="cont_abouttop"><span class="searchbluebold" style="line-height:30px;">Debasish Kar</span> <br />
+<span style="color:#333333;"><b>Chief Engineering Officer</b></span><br /><br />
+Debasis Kar, is one of the most talented & efficient persons in the field of Web Application Development. Having completed his degree in Maths and then his Masters in Computer Application form WBUT, now, he is working as Chief Engineer in Involutiontech Pvt. Ltd in India, a division of Beto Paredes, LLC.<br /><br />
+A successful web developer and an efficient programmer are the most common epithets to be applied in his regard.
+</div>
+</div></div>
+<div class="clr"></div>
+
+<div class="aboutsection">
+<div class="aboutpic"><img src="<?php echo base_url(); ?>images/travis.jpg" alt="" /></div>
+<div class="contarea_about">
+<div class="cont_abouttop"><span class="searchbluebold" style="line-height:30px;">Travis Morris</span> <br />
+<span style="color:#333333;"><b>Chief Administration Officer</b></span><br /><br />
+Travis has accumulated a vast amount of knowledge and professional abilities in the arenas of online sales, bill processing and SEO marketing. A great deal of his expertise was gained from his time spent representing and working with the online credit card processing specialist CC Billing.  Since joining our team, he has brought a new sense of dedication and accountability into the work force. This is easily seen in every project undertaken when using his unique style of management, project initiation, development and fulfillment protocols.
+</div>
+</div></div>
+<div class="clr"></div>
+
+<div class="aboutsection">
+<div class="aboutpic"><img src="<?php echo base_url(); ?>images/nephi.jpg" alt="" /></div>
+<div class="contarea_about">
+<div class="cont_abouttop"><span class="searchbluebold" style="line-height:30px;">Nephi Paredes</span> <br />
+<span style="color:#333333;"><b>Chief Operations Officer</b></span><br /><br />
+Nephi has over 3 years of formal education in Computer Science.  He has been working as a client services director for several advanced tech companies including recently Product2Web.  Nephi brings a professional and knowledged approach to everything he does for InfluxIQ.  He works directly with the development team and coordinates seamlessly with the clients making sure that they stay as updated as possible. Nephi is the glue that helps keep the InfluxIQ business model flowing.
+</div>
+</div></div>
+<div class="clr"></div>
+
+<div class="aboutsection" style="display:none;">
+<div class="aboutpic"><img src="<?php echo base_url(); ?>images/contactpic2.jpg" alt="" /></div>
+<div class="contarea_about">
+<div class="cont_abouttop"><span class="searchbluebold" style="line-height:30px;">Jared Brague</span> <br />
+<span style="color:#333333;"><b>SVP of Business Development</b></span><br /><br />
+Jared has a Psychology degree from NIC. He has over 7+ years experience in management and business development. Jared's enthusiasm for client relationships is reflected through his impressive sales count. Past skill in managing projects and diverse teams makes him a key member of the executive team.<br /><br />
+Jared is one of the major players in Beto Paredes. LLC. He is also the CEO of the call center Voice Call Services. LLC. He brings rare enthusiam and hard work to the entire team.
+</div>
+<!--<div class="smediaiconarea">
+<div class="aboutpic5">CONNECT WITH ME ON :</div>
+<div class="aboutpic6"><a href="http://www.facebook.com/betocparedes" target="_blank"><img src="images/contactf.jpg" width="26" height="27" alt="" /></a> <a href="http://www.twitter.com/betoparedes" target="_blank"><img src="images/contactt.jpg" width="26" height="27" alt="" /></a> <a href="http://www.linkedin.com/in/betoparedes " target="_blank"><img src="images/contactin.jpg" width="26" height="27" alt="" /></a></div>
+</div>--></div></div>
+<div class="clr"></div>
+
+<div class="aboutsection">
+<div class="aboutpic"><img src="<?php echo base_url(); ?>images/tito.jpg" alt="" /></div>
+<div class="contarea_about">
+<div class="cont_abouttop"><span class="searchbluebold" style="line-height:30px;">Kenyata Tippens</span> <br />
+<span style="color:#333333;"><b>Social Media Expert</b></span><br /><br />Kenyata Tippens brings a dynamic aspect to our social media work.  She helps us with our own personal social media needs and those of our clients.  With every change in the social environment Kenyata is always ready to make a difference to the bottom line of our clients.  Getting out there and drawing in viral users is one of her specialties.<br /><br />
+</div></div>
+<div class="clr"></div>
+
+<div class="aboutsection">
+<div class="aboutpic"><img src="<?php echo base_url(); ?>images/suman.jpg" alt="" /></div>
+<div class="contarea_about">
+<div class="cont_abouttop"><span class="searchbluebold" style="line-height:30px;">Suman Ray Chowdhury</span> <br />
+<span style="color:#333333;"><b>VP of Operations</b></span><br /><br />
+Suman has a degree from Calcutta University. He has over 6+ years experience in management and business development. Suman's enthusiasm for client relationships, efficency of managing Project and handling the corporate affairs make him one of the major players in Beto Paredes. LLC. He is now working as COO of the Involutiontech Pvt. Ltd, a division of Beto Paredes LLC.<br /><br />
+He brings rare enthusiam and hard work to the entire team.
+</div>
+</div></div>
+<div class="clr"></div>
+
+<div class="aboutsection">
+<div class="aboutpic"><img src="<?php echo base_url(); ?>images/abhi.jpg" alt="" /></div>
+<div class="contarea_about">
+<div class="cont_abouttop"><span class="searchbluebold" style="line-height:30px;">Abijit Sen</span> <br />
+<span style="color:#333333;"><b>Project Management Director</b></span><br /><br />
+Abhijit Sen, is one of the most talented persons in the field of Web Application Development. Having completed his degree in Physics and then his Masters in Computer Application form WBUT, now, he is working as Project Manager in Involutiontech Pvt. Ltd in India, a division of Beto Paredes, LLC.<br /><br />
+With his efficiency and hard work he had proven his worth to handle any responsibility with the complete satisfaction to all.
+</div>
+</div></div>
+<div class="clr"></div>
+
+<div class="aboutsection">
+<div class="aboutpic"><img src="<?php echo base_url(); ?>images/sufal.jpg" alt="" /></div>
+<div class="contarea_about">
+<div class="cont_abouttop"><span class="searchbluebold" style="line-height:30px;">Sufal Majumder</span> <br />
+<span style="color:#333333;"><b>Creative Director</b></span><br /><br />
+Sufal Majumder is a leading designer, graduating from a renowned University. He is an expert and has extensive industry knowledge about Designing. He is a master in playing with imagination. In the wide spectrum of designing he creates the magic with his brilliant skills in HTML, logo designing, graphic design, layout design. Presently he is working as a creative director in Involutiontech Pvt. Ltd, a division of Beto Paredes LLC.<br /><br />
+His inherent potential ensures magnificent innovation in the world of designing.
+</div>
+</div></div>
+<div class="clr"></div>
+
+<div class="Team_bsection">
+
+<div class="bsection_picbox" style="margin:0 15px 15px 0;">
+<img src="<?php echo base_url(); ?>images/samsuj.jpg" alt="" />
+<p><span>Samsij Jaman</span><br />Senior Software Developers</p>
+</div>
+<div class="bsection_picbox" style="margin:0 15px 15px 0;">
+<img src="<?php echo base_url(); ?>images/anindya.jpg" alt="" />
+<p><span>Anindya Chowdhury</span><br />Senior Software Developers</p>
+</div>
+<div class="bsection_picbox" style="margin:0 15px 15px 0;">
+<img src="<?php echo base_url(); ?>images/arnab.jpg" alt="" />
+<p><span>Arnab Chattopadhyay</span><br />Senior Software Developers</p>
+</div>
+<div class="bsection_picbox" style="margin:0 0px 15px 0;">
+<img src="<?php echo base_url(); ?>images/abhra.jpg" alt="" />
+<p><span>Abhranil Majumder</span><br />Jr Software Developers</p>
+</div>
+<div class="bsection_picbox" style="margin:0 15px 15px 0;">
+<img src="<?php echo base_url(); ?>images/ifta.jpg" alt="" />
+<p><span>Iftekar Uddin</span><br />Jr Software Developers</p>
+</div>
+<div class="bsection_picbox" style="margin:0 15px 15px 0;">
+<img src="<?php echo base_url(); ?>images/raju.jpg" alt="" />
+<p><span>Rajib Sarkar</span><br />Senior Website Designers</p>
+</div>
+<div class="bsection_picbox" style="margin:0 15px 15px 0;">
+<img src="<?php echo base_url(); ?>images/sarit.jpg" alt="" />
+<p><span>Sarit Dey</span><br />Jr Website Designers</p>
+</div>
+<div class="bsection_picbox" style="margin:0 0px 15px 0;">
+<img src="<?php echo base_url(); ?>images/subhransu.jpg" alt="" />
+<p><span>Shubhransu Mitra</span><br />Senior Website Designers</p>
+</div>
+
+</div>
+<div class="clr"></div>
+
+</div>
+<!-- .................................... END PROFILE AREA ............................................................................-->
+
+<!--............................................................. START TEAM AREA .............................................................................-->
+<!--............................................................. END TEAM AREA .............................................................................-->        
+    <div class="team3"></div>
+    <br />
+<div class="footerdown">
+                <div class="footerleft">
+                     <p>Contact a representative today and learn more about how the Influx IQ Development Group can enhance your business</p>
+                </div>
+                <div id="downbutton"><a href="<?php echo base_url()."home/contact.html"; ?>" class="buttondown"></a></div>
+</div>
+    <div class="copyright">&copy; 2010-2011, Influx IQ Development Group. All rights reserved.</div>
+  </div>

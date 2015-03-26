@@ -1,0 +1,35 @@
+@font-face {
+    font-family: myNormalFont;
+    src: url('../fonts/swissc.ttf')
+}
+@font-face {
+    font-family: myboldFont;
+    src: url('../fonts/swisscb.ttf')
+}
+@font-face {
+    font-family: mylightFont;
+    src: url('../fonts/swisscl.ttf')
+}
+@font-face {
+    font-family: myMyriadProFont;
+    src: url('../fonts/MyriadPro-Bold.otf')
+}
+@font-face {
+    font-family: mystylishFont;
+    src: url('../fonts/BASKERVI.ttf')
+}
+/**************** SITE MAIN CSS **************************************/
+@charset "utf-8";
+
+body{
+    /*background:#C7CDDF;*/
+}
+p {
+    font-family :   Verdana,Arial,Helvetica,sans-serif;
+    font-size:    12px;
+    font-weight:    400;
+    color   : #3D3D3D;
+    line-height  :  14px;
+    margin-top  :  15px;
+    margin-bottom  :  10px;
+}

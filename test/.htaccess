@@ -1,0 +1,12 @@
+RewriteEngine on
+
+#RewriteBase /influxiq
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond $1 !^(index\.php|js|css|images|uploads|extensions|FCKeditor|robots\.txt)
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+#php_value post_max_size 105M
+#php_value upload_max_filesize 100M
+#php_value max_execution_time 0

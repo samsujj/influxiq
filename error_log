@@ -1,0 +1,7 @@
+[07-Dec-2012 05:15:18 UTC] PHP Warning:  Unterminated comment starting line 59 in /home2/vixenriv/public_html/influxiq.com/application/views/admin/lead/search.tpl.php on line 59
+[28-Dec-2012 08:59:56 UTC] PHP Fatal error:  Call to undefined function get_dd() in /home2/vixenriv/public_html/influxiq.com/application/views/admin/affiliate/listing.tpl.php on line 172
+[28-Dec-2012 09:00:19 UTC] PHP Fatal error:  Call to undefined function get_dd() in /home2/vixenriv/public_html/influxiq.com/application/views/admin/affiliate/listing.tpl.php on line 172
+[28-Dec-2012 09:01:07 UTC] PHP Fatal error:  Unsupported operand types in /home2/vixenriv/public_html/influxiq.com/system/libraries/Pagination.php on line 124
+[28-Dec-2012 09:02:03 UTC] PHP Fatal error:  Unsupported operand types in /home2/vixenriv/public_html/influxiq.com/system/libraries/Pagination.php on line 124
+[28-Dec-2012 09:03:35 UTC] PHP Fatal error:  Call to undefined function get_dd() in /home2/vixenriv/public_html/influxiq.com/application/views/admin/affiliate/listing.tpl.php on line 172
+[28-Dec-2012 09:05:03 UTC] PHP Fatal error:  Unsupported operand types in /home2/vixenriv/public_html/influxiq.com/system/libraries/Pagination.php on line 124
